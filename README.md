@@ -8,8 +8,8 @@ como fazer?
 
 * passo 2 
 
-	Compilar o projeto 
+	abra o projeto no compilador do arduino
 * passo 3 
 
-	passar par o arduino
+	compile e mande para o arduino
 
