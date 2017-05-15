@@ -2,14 +2,14 @@
 
 como fazer?
 
-* 1 passo
+* passo 1
 
 	baixar o [projeto](https://github.com/enieber/meditor-temperatura/archive/master.zip) 
 
-* 2 passo 
+* passo 2 
 
 	Compilar o projeto 
-* 3 passo 
+* passo 3 
 
 	passar par o arduino
 
